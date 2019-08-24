@@ -1,0 +1,16 @@
+.navbar {
+    -webkit-app-region: drag;
+    background: #ececec;
+}
+
+.button {
+    -webkit-app-region: no-drag;
+}
+
+.menu-title {
+    color: #adadad;
+}
+
+.menu-title-wrapper {
+    margin-left: .3em;
+}
